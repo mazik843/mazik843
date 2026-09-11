@@ -11,7 +11,7 @@ Looking for help in some projects that somehow connected to networking or with b
 
 Previously had project with telegram bots on python + API configure, made some easy site functional + design on HTML/PHP
 
-Fun facts abt me:
+Fun facts abt me:  
 • I have a cute doggie
 • I like only Tea, coffee is rare thing.
 • My favorite anime Evangelion/Hellsing/LBX

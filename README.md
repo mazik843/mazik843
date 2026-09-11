@@ -1,18 +1,22 @@
 ## Hi there 👋
-I'm Mazik, currently a student in Russia
+I'm Mazik, a student in Russia.
 
-Im making something new on python.
+I'm mostly working on python.
 
-In future thinking of making info searching bots in telegram.
+Having some projects like working with camera to track hand movements, making telegram/tg bots with API configure.
 
 Currently learning basics of cybersecurity, server networking and programming on Bash.
 
-Looking for help in some projects that somehow connected to networking or with basic code management
+Looking for help in some projects that somehow connected to networking or basic code management/errors find.
 
-Previously had project with telegram bots on python + API configure, made some easy site functional + design on HTML/PHP
+Previously worked with HTML/PHP, made few sites with easy design and functional.
 
-Fun facts abt me:  
-• I have a cute doggie
-• I like only Tea, coffee is rare thing.
-• My favorite anime Evangelion/Hellsing/LBX
-• My favorite hobbies: gym, studying.
+Fun facts abt me:
+
+• I have a cute doggie.
+ 
+• Only Tea, coffee is rare thing.
+ 
+• My favorite anime Evangelion/Hellsing/LBX.
+ 
+• favorite hobbies: gym, studying.
